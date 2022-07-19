@@ -5,8 +5,20 @@
 
 Here are some ideas to get you started:
 
-Languages and Tools:
+Hola, Bienvenido a mi perfil! 👋
 
-https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667
+Examinate / Fondo: Ruta 1, California
+Me gustan los negocios y la tecnología por que creo que son la mejor forma de solucionar problemas. Me motiva aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo ayudarte, con gusto lo haré.
+Tech Skills
+javascript css html react redux node express postgresql sequelize
+Soft Skills
 
-![imagen](https://user-images.githubusercontent.com/97597166/179737727-125ff5de-2e97-42f7-bdd5-1e194f3abb41.png)
+    Trabajo en equipo, esfuerzo y constancia
+    Relaciones interpersonales.
+    Compromiso.
+    Planificación y organización.
+    Resiliencia
+    Scrum
+    Perseverancia
+    Me gusta aceptar nuevos desafíos, asumir riesgos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
+
