@@ -1,4 +1,8 @@
-### Hi there 👋
+
+name: Guillermo Benitez
+
+current_job: Full Stack Developer
+
 <h3> Tech Skills </h3>
 <p align="left">
 <img src="https://camo.githubusercontent.com/4a2e8166ed5507bbc606f803b72ffe368428dfb39382c0466c8b53d308736503/68747470733a2f2f692e6962622e636f2f677959775963592f446973652d6f2d73696e2d742d74756c6f2d322e706e67" alt="vscode" width="45" height="45"/>
