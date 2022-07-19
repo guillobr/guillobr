@@ -18,6 +18,7 @@
 </p>
 
 <h3> Soft Skills </h3>
+<li>
 Teamwork, effort and perseverance
 Scrum
 Commitment
@@ -25,6 +26,7 @@ Planification and organization
 Resilience
 Perseverance
 I like to accept new challenges, take risks, be constantly learning, solve problems and scale solutions
+ </li>
 
    
 
