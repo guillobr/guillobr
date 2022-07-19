@@ -17,6 +17,17 @@
  
 </p>
 
+h3> Soft Skills </h3>
+<li>Teamwork, effort and perseverance<li>
+<li>Scrum<li>
+<li>Commitment<li>
+<li>Planification and organization<li>
+<li>Resilience<li>
+<li>perseverance<li>
+<li>I like to accept new challenges, take risks, be constantly learning, solve problems and scale solutions<li>
+
+   
+
 <h3> Contact Me </h3>
 
 https://www.linkedin.com/in/guillermo-benitez/
