@@ -1,7 +1,7 @@
 
-name: Guillermo Benitez
+<h2> Guillermo Benitez </h2>
 
-current_job: Full Stack Developer
+<h2> Full Stack Developer </h2>
 
 <h3> Tech Skills </h3>
 <p align="left">
