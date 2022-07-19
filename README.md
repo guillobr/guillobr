@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Tech Skills </h2>
+<h3> Tech Skills </h3>
 <p align="left">
 <img src="https://camo.githubusercontent.com/4a2e8166ed5507bbc606f803b72ffe368428dfb39382c0466c8b53d308736503/68747470733a2f2f692e6962622e636f2f677959775963592f446973652d6f2d73696e2d742d74756c6f2d322e706e67" alt="vscode" width="45" height="45"/>
 <img src="https://camo.githubusercontent.com/e1e296b3b860b21fbda3ef12cfeee57009c9dc88c354fbfa7b133e0bb2e6d4ca/68747470733a2f2f692e6962622e636f2f4232434a4358782f446973652d6f2d73696e2d742d74756c6f2d342e706e67" alt="bash" width="45" height="45"/>
@@ -12,3 +12,7 @@
   <img src="https://camo.githubusercontent.com/5f6c503832b9233fc296ebc262166a44feef8093800990b3f2e6a38c3401add5/68747470733a2f2f692e6962622e636f2f4e5939516e32512f446973652d6f2d73696e2d742d74756c6f2d352e706e67" alt="php" width="45" height="45"/>
  
 </p>
+
+<h3> Contact Me </h3>
+
+<url="https://www.linkedin.com/in/guillermo-benitez/">
