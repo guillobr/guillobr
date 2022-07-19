@@ -17,14 +17,14 @@
  
 </p>
 
-h3> Soft Skills </h3>
-<li>Teamwork, effort and perseverance<li>
-<li>Scrum<li>
-<li>Commitment<li>
-<li>Planification and organization<li>
-<li>Resilience<li>
-<li>perseverance<li>
-<li>I like to accept new challenges, take risks, be constantly learning, solve problems and scale solutions<li>
+<h3> Soft Skills </h3>
+Teamwork, effort and perseverance
+Scrum
+Commitment
+Planification and organization
+Resilience
+Perseverance
+I like to accept new challenges, take risks, be constantly learning, solve problems and scale solutions
 
    
 
