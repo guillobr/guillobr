@@ -21,11 +21,20 @@
 <li>
 Teamwork, effort and perseverance
 </li>
+<li>
 Scrum
+ </li>
+ <li>
 Commitment
+  </li>
+ <li>
 Planification and organization
+  <li>
 Resilience
+    </li>
+   <li>
 Perseverance
+     </li>
 <li>
 I like to accept new challenges, take risks, be constantly learning, solve problems and scale solutions
  </li>
